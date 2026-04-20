@@ -105,6 +105,7 @@ Bandwidth  : 1297171956.4 B/s
 ## 📸 Screenshots
 
 ### 🔹 Mininet Setup
+![Mininet](mininet.png)
 
 ### 🔹 Ping Test Output
 
