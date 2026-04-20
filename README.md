@@ -65,7 +65,7 @@ sudo mn --controller=remote,ip=127.0.0.1
 ### ✅ Scenario 2: Ping Traffic
 
 ```bash
-h1 ping -c 5 h2
+h1 ping h2
 ```
 
 **Observation:**
