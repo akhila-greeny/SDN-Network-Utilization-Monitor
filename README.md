@@ -108,6 +108,7 @@ Bandwidth  : 1297171956.4 B/s
 ![Mininet](mininet.png)
 
 ### 🔹 Ping Test Output
+![Ping](ping.png)
 
 ### 🔹 iperf Test Output
 
